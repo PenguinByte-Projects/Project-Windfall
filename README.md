@@ -1,2 +1,2 @@
 # Project-Windfall
-An independent, partially immutable Linux distro with ootb support for Snap, Flatpak, AppImage, and obviously, tarballs.
+A partially immutable, independent Linux distro, with Snap, Flatpak, AppImage, it's own package manager and repos, a graphical tarball installer, GNOME by default, and possibly KDE as an option, and more.

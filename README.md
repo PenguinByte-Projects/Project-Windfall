@@ -1,4 +1,4 @@
-# ![Project Windfall Text (small)](https://github.com/PenguinByte-Projects/Project-Windfall/assets/90986945/9094efca-1f27-4403-8611-5828419e8812)
+# ![Project Windfall Ad2](https://github.com/PenguinByte-Projects/Project-Windfall/assets/90986945/47eebfb6-4880-445f-bcc5-27098ab1ec54)
 # What is Project Windfall?
 Project Windfall is an immutable, independently-based GNU/Linux distribution with with an emphasis on security, modularity, and convenience.
 
@@ -6,7 +6,14 @@ Project Windfall is an immutable, independently-based GNU/Linux distribution wit
 Project Windfall is a work in progress.
 
 # What features will Project Windfall include?
-(no description)
+1. Project Windfall will be fully immutable, allowing for atomic upgrades and rollback in case an update or modification damages the system.
+2. Project Windfall will include full modularity, allowing you to safely and easily add, swap, and manage desktop environments, platforms, init systems, kernels, boot loaders, and more, without affecting the rest of the system.
+3. Project Windfall will be very minimal, and will include the GNOME desktop environment, although that is swappable, and will leverage the full potential of systemd by default, for example using systemd-boot instead of GRUB.
+4. Project Windfall will also include support for traditional packaging formats such as tar packages, and will contain a program for easy installation of tar packages graphically.
+5. Project Windfall will include it's own powerful and easy-to-use package manager, avpkg.
 
 # What is the goal of Project Windfall?
-(no description)
+The goal of Project Windfall is to make the perfect GNU/Linux distrobution.
+
+# Who is Project Windfall targeted towards?
+Project Windfall is meant for everything, everyone, and every purpose. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.

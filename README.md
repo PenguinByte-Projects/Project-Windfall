@@ -13,7 +13,7 @@ Project Windfall is a work in progress.
 5. Project Windfall will include it's own powerful and easy-to-use package manager, avpkg.
 
 # What is the goal of Project Windfall?
-The goal of Project Windfall is to make the perfect GNU/Linux distrobution.
+The goal of Project Windfall is to make the perfect GNU/Linux distribution.
 
 # Who is Project Windfall targeted towards?
 Project Windfall is meant for everything, everyone, and every purpose. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.

@@ -23,4 +23,3 @@ Project Windfall will have many editions, those of which include the following:
 1. Windfall Desktop: A beautiful and easy-to-use desktop for everyday use, with a normal release and LTS release.
 2. Windfall Server: A free operating system for servers and supercomputers.
 3. Windfall Embedded: A lightweight platform for embedded devices.
-More editions are planned, but that's all for now.

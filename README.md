@@ -1,6 +1,6 @@
 # ![Project Windfall Ad2](https://github.com/PenguinByte-Projects/Project-Windfall/assets/90986945/47eebfb6-4880-445f-bcc5-27098ab1ec54)
 # What is Project Windfall?
-Project Windfall is an immutable, independently-based GNU/Linux distribution with with an emphasis on security, modularity, and convenience.
+Project Windfall is an immutable, independently-based GNU/Linux distribution with with an emphasis on security, modularity, reliability, and convenience.
 
 # Disclaimer
 Project Windfall is a work in progress.
@@ -17,3 +17,11 @@ The goal of Project Windfall is to make the perfect GNU/Linux distribution.
 
 # Who is Project Windfall targeted towards?
 Project Windfall is meant for everything, everyone, and every purpose. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.
+
+# Editions
+Project Windfall will have many editions, those of which include the following:
+Windfall Desktop: A beautiful and easy-to-use desktop for everyday use.
+Windfall Desktop LTS: A less frequently updated desktop with Long Term Support.
+Windfall Server: A free operating system for servers and supercomputers.
+Windfall Embedded: A lightweight platform for embedded devices.
+More editions are planned, but that's all for now.

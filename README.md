@@ -17,11 +17,10 @@ Project Windfall is a work in progress.
 The goal of Project Windfall is to make the perfect GNU/Linux distribution.
 
 # Who is Project Windfall targeted towards?
-Project Windfall is meant for everything, everyone, and every purpose. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.
+Project Windfall is meant for everyone. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.
 
 # Editions
 Project Windfall will have many editions, those of which include the following:
 1. Windfall Desktop: A beautiful and easy-to-use desktop for everyday use, with a normal release and LTS release.
 2. Windfall Server: A free operating system for servers and supercomputers.
 3. Windfall Embedded: A lightweight platform for embedded devices.
-4. Windfall Core: An extremely lightweight desktop with the bare minimum.

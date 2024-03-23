@@ -7,10 +7,11 @@ Project Windfall is a work in progress.
 
 # What features will Project Windfall include?
 1. Project Windfall will be fully immutable, allowing for atomic upgrades and rollback in case an update or modification damages the system.
-2. Project Windfall will include full modularity, allowing you to safely and easily add, swap, and manage platforms, kernels, and more, without affecting the rest of the system.
-3. Project Windfall will be very minimal, and will include the GNOME desktop environment, although that is changeable, and will leverage the full potential of systemd, for example using systemd-boot instead of GRUB.
-4. Project Windfall will also include support for traditional packaging formats such as tar packages, and will contain a program for easy installation of tar packages graphically.
+2. Project Windfall will have a read-only directory dedicated to core system programs, and a writable directory for all the other programs, allowing for direct native installation and management of traditional packages without the need for any subsystems.
+3. Project Windfall will be very minimal, and will include the GNOME desktop environment by default, although that is changeable, and will leverage the full potential of systemd, for example using systemd-boot instead of GRUB. This is also means that if you dislike systemd, Project Windfall may not be the distro for you.
+4. Project Windfall will also contain it's own software center by default as opposed to using GNOME Software. This new software center will provide easy graphical installation of all supported packaging formats including tar packages, the ability to compile and manage source packages, the ability to manage all packages installed on the system, and some other features.
 5. Project Windfall will include it's own powerful and easy-to-use package manager, avpkg.
+6. Project Windfall's package manager and other programs will be written in the fast and secure Go programming language.
 
 # What is the goal of Project Windfall?
 The goal of Project Windfall is to make the perfect GNU/Linux distribution.

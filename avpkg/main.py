@@ -3,6 +3,13 @@ import json
 import os
 import subprocess
 import shutil
+import tempfile
+import argparse
+import json
+import os
+import subprocess
+import shutil
+import tempfile
 
 def install_package(package_name):
     package_dir = f"/packages/{package_name}"
@@ -16,8 +23,25 @@ def install_package(package_name):
     for dependency in package_info.get('dependencies', []):
         install_package(dependency)
 
+    # Check if 'install_script' key exists in package_info
+    if 'install_script' not in package_info:
+        print(f"No install script specified for package {package_name}.")
+        return
+
     install_script = package_info['install_script']
-    result = subprocess.run(f"{package_dir}/{install_script}", shell=True)
+    # Create a temporary file and open it in nano for editing
+    with tempfile.NamedTemporaryFile(mode='w+t', delete=False) as temp_file:
+        temp_file.write(open(f"{package_dir}/{install_script}", 'r').read())
+        temp_file.flush()
+        subprocess.call(['nano', temp_file.name])
+        # Ask the user if they are happy with their changes
+        user_confirmation = input("Are you happy with your changes? (yes/no): ")
+        if user_confirmation.lower() == 'yes':
+            # Proceed with the installation, passing the path to package.json and package directory
+            result = subprocess.run(f"{package_dir}/{install_script} {package_dir}/package.json {package_dir}", shell=True)
+        else:
+            print("Installation cancelled by the user.")
+            return
 
     if result.returncode == 0:
         installed_path = package_info.get('installed_path', '')

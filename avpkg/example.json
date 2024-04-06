@@ -1,0 +1,7 @@
+{
+    "name": "mypackage",
+    "version": "1.0.0",
+    "dependencies": [],
+    "install_script": "./install.sh"
+   }
+   

@@ -1,7 +1,8 @@
 {
-    "name": "mypackage",
+    "name": "example",
     "version": "1.0.0",
     "dependencies": [],
-    "install_script": "./install.sh"
+    "install_script": "./install.sh",
+    "installed_path": "/packages/store/example"
    }
    

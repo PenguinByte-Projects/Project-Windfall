@@ -22,6 +22,5 @@ Project Windfall is meant for everyone. Initially, Project Windfall will only ha
 # Editions
 Project Windfall will have many editions, those of which include the following:
 1. Windfall Desktop: A beautiful and easy-to-use desktop for everyday use. This will be the initial Project Windfall release.
-2. Windfall Server: A free operating system for servers and supercomputers.
-3. Windfall Embedded: A lightweight platform for embedded devices.
-4. Windfall Enterprise Linux (WEL): Project Windfall for the enterprise, with high-quality 24/7 support, great reliability, and several open-source technologies.
+2. Windfall Server: A free operating system for servers, supercomputers, and embedded devices.
+3. Windfall Enterprise Linux (WEL): Project Windfall for the enterprise, with high-quality 24/7 support, great reliability, and several open-source technologies.

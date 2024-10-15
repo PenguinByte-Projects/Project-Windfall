@@ -14,7 +14,7 @@ Project Windfall is a work in progress. I am still learning Rust and learning ho
 6. Project Windfall's package manager and other programs will be written in the fast and secure Go programming language.
 
 # What is the goal of Project Windfall?
-The goal of Project Windfall is to make the perfect GNU/Linux distribution.
+The goal of Project Windfall is to create my vision of the ideal GNU/Linux distribution. A GNU/Linux distribution with all codecs and drivers preincluded out of the box, and an "it just works" experience, as well as including a robust security system and my vision of immutability.
 
 # Who is Project Windfall targeted towards?
 Project Windfall is meant for everyone. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.

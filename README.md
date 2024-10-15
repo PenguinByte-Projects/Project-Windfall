@@ -11,7 +11,7 @@ Project Windfall is a work in progress. I am still learning Rust and learning ho
 3. Project Windfall will include the GNOME desktop environment by default, although that is changeable, and will leverage the full potential of systemd, for example using systemd-boot instead of GRUB. This also means that if you dislike systemd, Project Windfall may not be the distro for you.
 4. Project Windfall will also use its software center instead of GNOME Software. This new software center will provide easy graphical installation of all supported packaging formats including tar packages, the ability to compile and manage source packages, the ability to manage all packages installed on the system, and some other features.
 5. Project Windfall will include its own powerful and easy-to-use package manager, avpkg.
-6. Project Windfall's package manager and other programs will be written in the fast and secure Go programming language.
+6. Project Windfall's package manager and other programs will be written in the fast and secure Rust programming language.
 
 # What is the goal of Project Windfall?
 The goal of Project Windfall is to create my vision of the ideal GNU/Linux distribution. A GNU/Linux distribution with all codecs and drivers preincluded out of the box, and an "it just works" experience, as well as including a robust security system and my vision of immutability.

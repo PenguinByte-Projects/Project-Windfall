@@ -20,7 +20,6 @@ The goal of Project Windfall is to make the perfect GNU/Linux distribution.
 Project Windfall is meant for everyone. Initially, Project Windfall will only have one desktop release geared towards normal users, but there will be many other versions of Project Windfall coming out when it grows bigger.
 
 # Editions
-Project Windfall will have many editions, those of which include the following:
+Project Windfall will have a few editions, those of which include the following:
 1. Windfall Workstation: A beautiful and easy-to-use desktop for everyday use. This will be the initial Project Windfall release.
 2. Windfall Server: A free operating system for servers, supercomputers, and embedded devices.
-3. Windfall Enterprise Linux (WEL): Project Windfall for the enterprise, with high-quality 24/7 support, great reliability, and several open-source technologies.

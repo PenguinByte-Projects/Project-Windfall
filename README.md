@@ -3,7 +3,7 @@
 Project Windfall is an immutable, independently-based GNU/Linux distribution with with an emphasis on security, modularity, reliability, and convenience.
 
 # Disclaimer
-Project Windfall is a work in progress. I am still learning Rust and learning how to build a distro in my free time, so there is no build of Project Windfall available for download at this moment, and it maybe a while till there is. The name "Project Windfall" is also just a placeholder name and will not be used in the official releases. We already have a name ready for then but do not want to disclose it yet.
+Project Windfall is a work in progress, currently a concept. I am still learning Rust and learning how to build a distro in my free time, so there is no build of Project Windfall available for download at this moment, and it maybe a while till there is. The name "Project Windfall" is also just a placeholder name and will not be used in the official releases. We already have a name ready for then but do not want to disclose it yet.
 
 # What features will Project Windfall include?
 1. Project Windfall will be fully immutable, allowing for atomic upgrades and rollback in case an update or modification damages the system.

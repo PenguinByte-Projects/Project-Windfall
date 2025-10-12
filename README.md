@@ -3,4 +3,4 @@
 Project Windfall is a concept GNU/Linux distribution intended to be an immutable, independently-based, consumer-ready, and systemd-focused with an emphasis on security, reliability, and convenience.
 
 # Disclaimer
-Project Windfall is currently a concept, and if everything goes to plan, soon a work-in-progress. There is no build of Project Windfall available for download at this moment, and it maybe a while till there is. The name "Project Windfall" is also just a placeholder name and will not be used in the official releases. I already have a name ready for then but do not want to disclose it yet.
+Project Windfall is currently a concept, and if everything goes to plan, soon a work-in-progress. There is no build of Project Windfall available for download at this moment, and it maybe a while till there is. Please do not contribute to this project until official development begins, pull requests will not be accepted.
